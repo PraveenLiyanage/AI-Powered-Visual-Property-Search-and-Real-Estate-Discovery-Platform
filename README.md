@@ -1,4 +1,4 @@
-# Visual Home Finder AI Agent
+# AI-Powered Visual Property Search and Real Estate Discovery Platform
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/) 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0-green)](https://fastapi.tiangolo.com/) 

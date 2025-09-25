@@ -11,7 +11,7 @@
 
 ## Project Overview
 
-**Visual Home Finder** is an AI-powered real estate search platform that allows users to **find visually similar properties** by uploading images.  
+**HomeVision AI** is an AI-powered real estate search platform that allows users to **find visually similar properties** by uploading images.  
 
 It combines **image embeddings, vector search, and modern frontend design** to create a fast, scalable, and user-friendly platform. Designed for **global use**, it supports future cloud deployment, subscription plans, and multi-region search.
 
